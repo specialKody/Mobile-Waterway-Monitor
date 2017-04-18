@@ -1,0 +1,1 @@
+python -m pydoc -w *file_name*			###Note: Drop the .py extension on the file_name

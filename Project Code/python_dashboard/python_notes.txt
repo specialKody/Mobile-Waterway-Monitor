@@ -1,0 +1,5 @@
+# How to convert from timestring which can be stripped to created_at column to datetime object
+
+Libraries:
+	Basemap - http://www.lfd.uci.edu/~gohlke/pythonlibs/
+		My specific version used: basemap-1.0.8-cp35-none-win_amd64.whl

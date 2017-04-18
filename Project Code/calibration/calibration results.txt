@@ -1,0 +1,4 @@
+Calibration Fluid		Reading			Voltage				Estimated Offset
+7 (ph neutral)			6.92			(didn't gather)		.08	
+4 (acidic)				4.00			1.15				0
+10 (base)				9.81			2.81				.19

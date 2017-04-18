@@ -1,0 +1,4 @@
+Calibration Fluid				Reading				Voltage
+	4.00 (acidic)				4.08				1.17
+	6.88 (neutral)				6.92				1.98
+	9.20 (basic)				9.10				2.6
